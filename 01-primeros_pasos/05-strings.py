@@ -1,0 +1,2 @@
+text1 = 'Hola'
+text2 = "Holaaa"
