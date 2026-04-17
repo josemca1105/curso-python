@@ -1,13 +1,3 @@
-text1 = 'Hola'
-text2 = "Holaaa"
-
-text3 = '''
-Hola,
-Mi nombre es Jose
-Soy de Venezuela
-bla bla bla
-'''
-
 # Concatenar strings
 name = "Jose"
 last_name = "Calderon"
