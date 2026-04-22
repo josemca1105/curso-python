@@ -8,7 +8,7 @@
     Tu contraseña es: ********
 """
 
-name = str(input("Ingrese su nombre: "))
+name = input("Ingrese su nombre: ")
 birth_year = int(input("Ingrese su año de nacimiento: "))
 email = str(input("Ingrese su correo: "))
 password = str(input("Ingrese su contraseña: "))
