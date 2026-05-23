@@ -37,5 +37,8 @@ shopping_cart = [
 # Copiar una lista
 new_cart = shopping_cart[:]
 
+new_cart[0] = 'Playeras'
+shopping_cart[1] = 'Zapatos'
+
 print(shopping_cart)
 print(new_cart)
